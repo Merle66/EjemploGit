@@ -10,6 +10,11 @@ public class EjemploGit {
         System.out.println("Adiós mundo");
         
         System.out.println("Esto está mal");
+        
+    }
+    
+    public static void nuevaFuncionalidad(){
+        System.out.println("Esta funcionalidad está a medias");
     }
     
 }
