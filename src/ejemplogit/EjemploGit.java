@@ -9,7 +9,6 @@ public class EjemploGit {
                        
         System.out.println("Adiós mundo");
         
-        System.out.println("Esto está mal");
     }
     
 }
